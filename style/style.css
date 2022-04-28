@@ -1,0 +1,98 @@
+.flex-container {
+    display:flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.column-elements {
+    display:flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#login {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#login-content {
+    height:50%;
+    width:25%;
+    margin:auto;
+    justify-content: center;
+}
+#profile {
+    height: 50%;
+    justify-content: center;
+}
+
+#welcome {
+    text-align: center;
+}
+
+#profile-page {
+    height:50%;
+    width:25%;
+    margin:auto;
+    justify-content: center;
+    background-color:#EFEFEF;
+    text-align: center;
+}
+
+
+#profile-form .form-group{
+    height:50%;
+    width:50%;
+    margin:auto;
+    justify-content: center;
+    text-align: left;
+}
+
+#profile-details-btn {
+    margin-top: 5%;
+}
+
+#language-container {
+    height:50%;
+    width:25%;
+    margin:auto;
+    justify-content: center;
+    background-color:#EFEFEF;
+    text-align: center;
+}
+
+
+#bg-button {
+    background-image: url("../img/bg-img.png");
+    background-repeat: no-repeat;
+    background-size: 1%;
+}
+
+#country-container {
+   display:flex;
+   justify-content: center;
+}
+
+#country-container button {
+    padding:3%;
+    margin:1%;
+}
+
+#body-bulgarian {
+    height:50%;
+    width:25%;
+    margin:auto;
+    justify-content: center;
+    background-color:#EFEFEF;
+    text-align: center;
+}
+
+#bulgarian {
+    background-image: url("../img/sofia.jpg.crdownload");
+    background-repeat: no-repeat;
+    background-size: 900px 600px;
+    padding-bottom: 600px;
+    opacity: 0.2;
+}
