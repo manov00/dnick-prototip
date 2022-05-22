@@ -28,7 +28,7 @@
     justify-content: center;
 }
 
-#welcome {
+.welcome {
     text-align: center;
 }
 
@@ -95,4 +95,11 @@
     background-size: 900px 600px;
     padding-bottom: 600px;
     opacity: 0.2;
+}
+
+.info-right {
+    float: right;
+    margin-top: 15%;
+    margin-right: 11%;
+    text-align: center;
 }
